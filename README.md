@@ -14,9 +14,11 @@ Nuetral networks algo gave
 - 97.450% accuracy using NN with hidden layer too
 
 Input Images like -
+
 ![image](https://user-images.githubusercontent.com/101546087/194817303-faedac6b-e8f8-49b4-9eec-f82033a9a817.png)
 
 Best Accuracy by nuetral networks algorithm i.e. 97.45%
 
 correlation heatmap -
+
 ![image](https://user-images.githubusercontent.com/101546087/194817886-6802d78d-2a06-4a0c-98c5-705be7f4e637.png)
