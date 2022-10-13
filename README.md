@@ -10,8 +10,8 @@ Random Forest gave 96.666% accuracy
 Logistic Regression gave 55.869% accuracy
 
 Nuetral networks algo gave 
-- 92.619% accuracy by simple NN
-- 97.450% accuracy using NN with hidden layer too
+- 92.619% accuracy by simple NN (Simple neutral Networks)
+- 97.450% accuracy using NN with hidden layer too (Deep neutral Networks)
 
 Input Images like -
 
